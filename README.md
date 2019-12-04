@@ -8,3 +8,12 @@ This application allows users to:
 <ol>Close an account</ol>
 <ol>Modify account</ol>
 <ol>List all account holders</ol> 
+
+
+
+![alt text](img1.JPG)
+
+
+
+![alt text](img2.JPG)
+
